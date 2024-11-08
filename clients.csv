@@ -1,0 +1,21 @@
+client_id,name,email,date_of_birth,country,account_balance
+C001,Client 1,client1@example.com,1980-12-16,UK,2596.2
+C002,Client 2,client2@example.com,1981-11-26,UK,8373.33
+C003,Client 3,client3@example.com,1982-02-28,France,4078.26
+C004,Client 4,client4@example.com,1983-10-28,USA,1643.09
+C005,Client 5,client5@example.com,1984-05-21,France,2224.58
+C006,Client 6,client6@example.com,1985-03-25,France,6239.69
+C007,Client 7,client7@example.com,1986-04-17,Germany,7432.32
+C008,Client 8,client8@example.com,1987-03-18,USA,5682.37
+C009,Client 9,client9@example.com,1988-01-20,UK,3876.69
+C010,Client 10,client10@example.com,1989-04-02,France,7172.66
+C011,Client 11,client11@example.com,1990-01-08,Canada,1336.83
+C012,Client 12,client12@example.com,1991-10-10,Canada,3996.89
+C013,Client 13,client13@example.com,1992-03-16,USA,5608.95
+C014,Client 14,client14@example.com,1993-10-06,UK,1881.18
+C015,Client 15,client15@example.com,1994-04-04,Germany,7026.66
+C016,Client 16,client16@example.com,1995-10-15,Canada,9516.79
+C017,Client 17,client17@example.com,1996-12-20,Canada,5234.18
+C018,Client 18,client18@example.com,1997-02-06,Germany,1214.05
+C019,Client 19,client19@example.com,1998-10-14,USA,8227.1
+C020,Client 20,client20@example.com,1999-06-06,USA,6348.31
